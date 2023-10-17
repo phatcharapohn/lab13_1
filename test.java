@@ -9,5 +9,6 @@ public class test {
     public void testNegativeInput() {
         // Test with a negative integer
         assertEquals(9, main.calculateSumOfDigits(-12345)); // -1-2-3-4-5 = -15 -> -1-5 = -6
+        
     }
 }
